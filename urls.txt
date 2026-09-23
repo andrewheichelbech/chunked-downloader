@@ -1,0 +1,8 @@
+# xDP 5.0.0 NiFi v1 binaries
+https://xdp-sovereign-artifacts.s3.us-east-1.amazonaws.com/5.0.0-nifi-v1/xdp-sovereign-5.0.0-nifi-v1-part1.tgz
+https://xdp-sovereign-artifacts.s3.us-east-1.amazonaws.com/5.0.0-nifi-v1/xdp-sovereign-5.0.0-nifi-v1-part2.tgz
+https://xdp-sovereign-artifacts.s3.us-east-1.amazonaws.com/5.0.0-nifi-v1/xdp-sovereign-5.0.0-nifi-v1-part3.tgz
+https://xdp-sovereign-artifacts.s3.us-east-1.amazonaws.com/5.0.0-nifi-v1/xdp-sovereign-5.0.0-nifi-v1-part4.tgz
+https://xdp-sovereign-artifacts.s3.us-east-1.amazonaws.com/5.0.0-nifi-v1/xdp-sovereign-5.0.0-nifi-v1-part5.tgz
+https://xdp-sovereign-artifacts.s3.us-east-1.amazonaws.com/5.0.0-nifi-v1/xdp-sovereign-5.0.0-nifi-v1-part6.tgz
+https://xdp-sovereign-artifacts.s3.us-east-1.amazonaws.com/5.0.0-nifi-v1/xdp-soverign-v2-release-5.0.0-nifi-v1.tgz
